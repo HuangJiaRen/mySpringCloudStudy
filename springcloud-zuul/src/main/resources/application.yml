@@ -1,0 +1,18 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://center1:8010/eureka/,http://center2:8011/eureka/
+server:
+  port: 8019
+spring:
+  application:
+    name: service-zuul
+#zuul路由功能
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      serviceId: feign-consumer
+    api-b:
+      path: /api-b/**
+      serviceId: eureka-consumer
