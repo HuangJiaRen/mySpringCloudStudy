@@ -1,4 +1,4 @@
-package com.huangli.xdf;
+package com.huangli.cn;
 
 import brave.sampler.Sampler;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,7 +27,7 @@ public class ServiceMiyaApplication {
     private static final Logger LOG = Logger.getLogger(ServiceMiyaApplication.class.getName());
 
 
-    @RequestMapping("/hi")
+    @RequestMapping("/miya/hi")
     public String home(){
         LOG.log(Level.INFO, "hi is being called");
         return "hi i'm miya!";

@@ -1,4 +1,4 @@
-package com.huangli.xdf;
+package com.huangli;
 
 import brave.sampler.Sampler;
 import org.springframework.beans.factory.annotation.Autowired;
