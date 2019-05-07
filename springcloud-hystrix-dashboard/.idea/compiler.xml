@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.huangli.eureka" />
+        <module name="com.huangli.hi" />
+        <module name="eureka-server" />
+        <module name="service-hi" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.huangli.eureka" options="-parameters" />
+      <module name="com.huangli.hi" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="service-hi" options="-parameters" />
+    </option>
+  </component>
+</project>

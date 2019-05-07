@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.huangli.xdf (1) (springcloud-eurekaClient)" />
+        <module name="com.huangli.xdf (2) (springcloud-eurekaClient02)" />
         <module name="springcloud-eurekaClient" />
         <module name="springcloud-eurekaClient02" />
       </profile>
@@ -13,6 +15,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.huangli.xdf (1) (springcloud-eurekaClient)" options="-parameters" />
+      <module name="com.huangli.xdf (2) (springcloud-eurekaClient02)" options="-parameters" />
       <module name="springcloud-eurekaClient" options="-parameters" />
       <module name="springcloud-eurekaClient02" options="-parameters" />
     </option>

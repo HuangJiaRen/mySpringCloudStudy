@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.huangli.xdf (2) (springcloud-clientConfig)" />
+        <module name="com.huangli.xdf (3) (springcloud-configServer)" />
         <module name="springcloud-clientConfig" />
         <module name="springcloud-configServer" />
       </profile>
@@ -13,6 +15,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.huangli.xdf (2) (springcloud-clientConfig)" options="-parameters" />
+      <module name="com.huangli.xdf (3) (springcloud-configServer)" options="-parameters" />
       <module name="springcloud-clientConfig" options="-parameters" />
       <module name="springcloud-configServer" options="-parameters" />
     </option>
