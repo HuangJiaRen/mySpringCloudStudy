@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e0c210-189f-4ecb-a46a-626edf20f555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/service-hi/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-one/src/main/java/com/huangli/gateway/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-one/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/eureka-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/eureka-server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/service-hi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/service-hi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/service-hi/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/service-hi/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-zipkin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-zipkin/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-center1.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -128,8 +123,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,18 +190,19 @@
       <updated>1556444379430</updated>
       <workItem from="1557239454055" duration="167000" />
       <workItem from="1557239903439" duration="120000" />
-      <workItem from="1557240119042" duration="517000" />
+      <workItem from="1557240119042" duration="617000" />
+      <workItem from="1557278150089" duration="693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="804000" />
+    <option name="totallyTimeSpent" value="1597000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="814" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-center1.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
