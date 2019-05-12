@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e0c210-189f-4ecb-a46a-626edf20f555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-one/src/main/java/com/huangli/gateway/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-one/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-predicate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-predicate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-predicate/src/main/java/com/huangli/predicate/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-gateway-predicate/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-gateway-one/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-gateway-one/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -200,7 +202,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
