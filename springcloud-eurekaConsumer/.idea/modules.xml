@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.huangli.xdf.iml" filepath="$PROJECT_DIR$/com.huangli.xdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eurekaConsumer.iml" filepath="$PROJECT_DIR$/springcloud-eurekaConsumer.iml" />
     </modules>
   </component>
 </project>

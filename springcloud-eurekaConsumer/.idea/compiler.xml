@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.huangli.xdf" />
+        <module name="springcloud-eurekaConsumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.huangli.xdf" target="1.8" />
+      <module name="springcloud-eurekaConsumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="com.huangli.xdf" options="-parameters" />
+      <module name="springcloud-eurekaConsumer" options="-parameters" />
     </option>
   </component>
 </project>
