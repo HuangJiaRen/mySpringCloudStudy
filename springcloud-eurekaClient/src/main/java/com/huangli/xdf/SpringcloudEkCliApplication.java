@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -23,7 +22,7 @@ import java.util.List;
 @EnableEurekaClient
 @SpringBootApplication
 @RestController
-public class SpringcloudApplication {
+public class SpringcloudEkCliApplication {
     @Autowired
     private DiscoveryClient discoveryClient;
 
@@ -68,7 +67,7 @@ public class SpringcloudApplication {
 
     //这是一个注册客户端，向注册中心进行注册一个服务
     public static void main(String[] args) {
-        SpringApplication.run(SpringcloudApplication.class, args);
+        SpringApplication.run(SpringcloudEkCliApplication.class, args);
     }
 
     }

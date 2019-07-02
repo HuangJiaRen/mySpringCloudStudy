@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.huangli.xdf (1) (springcloud-eurekaClient)" />
         <module name="com.huangli.xdf (2) (springcloud-eurekaClient02)" />
         <module name="springcloud-eurekaClient" />
         <module name="springcloud-eurekaClient02" />
+        <module name="com.huangli.xdf (1) (springcloud-eurekaClient)" />
       </profile>
     </annotationProcessing>
   </component>
