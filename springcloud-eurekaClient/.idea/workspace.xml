@@ -8,13 +8,10 @@
       <change beforePath="$PROJECT_DIR$/../springCloud-consul-provider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloud-consul-provider/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-eureka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-eureka02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huangli/xdf/SpringcloudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huangli/xdf/SpringcloudEkCliApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-eurekaClient02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eurekaClient02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-eurekaClient02/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eurekaClient02/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-gateway-predicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-gateway-predicate/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -52,17 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huangli/xdf/SpringcloudEkCliApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+            <state relative-caret-position="-435">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="26" />
               <folding>
                 <element signature="e#853#869#1" expanded="true" />
                 <element signature="e#2430#2431#0" expanded="true" />
@@ -72,11 +69,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="433">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#2489#2490#0" expanded="true" />
+                <element signature="e#2562#2563#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -119,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huangli/xdf/SpringcloudEkCliApplication.java" />
         <option value="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudApplication.java" />
         <option value="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java" />
       </list>
     </option>
   </component>
@@ -200,6 +202,12 @@
             <path>
               <item name="springcloud-eurekaClient" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.huangli" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="springcloud-eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eurekaClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.huangli" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="springcloud-eurekaClient02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,6 +256,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -275,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudEkCliApplication">
+  <component name="RunManager" selected="Spring Boot.SpringcloudEkCli02Application">
     <configuration name="SpringcloudApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huangli.ekClient02.SpringcloudApplication" />
       <module name="com.huangli.xdf (2) (springcloud-eurekaClient02)" />
@@ -316,6 +328,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringcloudEkCli02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="com.huangli.xdf (2) (springcloud-eurekaClient02)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huangli.xdf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huangli.xdf.SpringcloudEkCli02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringcloudEkCliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="com.huangli.xdf (1) (springcloud-eurekaClient)" />
       <extension name="coverage">
@@ -331,6 +356,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SpringcloudEkCli02Application" />
         <item itemvalue="Spring Boot.SpringcloudEkCliApplication" />
         <item itemvalue="Application.SpringcloudApplication" />
       </list>
@@ -352,19 +378,26 @@
       <workItem from="1562030069363" duration="4000" />
       <workItem from="1562030315519" duration="188000" />
       <workItem from="1562030519762" duration="69000" />
-      <workItem from="1562030604865" duration="410000" />
+      <workItem from="1562030604865" duration="1536000" />
     </task>
+    <task id="LOCAL-00001" summary="修改应用名称">
+      <created>1562031207697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562031207697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="852000" />
+    <option name="totallyTimeSpent" value="1978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-900" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29041487" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29041487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,14 +409,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3420622" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.1493976" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.27831325" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
@@ -435,26 +468,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改应用名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改应用名称" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M7/spring-cloud-netflix-eureka-client-2.0.0.M7.jar!/org/springframework/cloud/netflix/eureka/EnableEurekaClient.class" />
     <entry file="file://$PROJECT_DIR$/../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.M7/spring-cloud-netflix-eureka-server-2.0.0.M7.pom" />
     <entry file="file://$PROJECT_DIR$/../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.M7/spring-cloud-netflix-eureka-client-2.0.0.M7.pom" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huangli/ekClient/SpringcloudApplication.java" />
     <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/ekClient02/SpringcloudApplication.java" />
-    <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -465,25 +488,43 @@
     <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huangli/xdf/SpringcloudEkCliApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        <state relative-caret-position="-435">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="26" />
           <folding>
             <element signature="e#853#869#1" expanded="true" />
             <element signature="e#2430#2431#0" expanded="true" />
             <element signature="e#2503#2504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloud-eurekaClient02/src/main/java/com/huangli/xdf/SpringcloudEkCli02Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2562#2563#0" expanded="true" />
           </folding>
         </state>
       </provider>
