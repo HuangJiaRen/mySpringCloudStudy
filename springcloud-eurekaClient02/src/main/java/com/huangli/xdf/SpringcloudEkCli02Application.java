@@ -31,14 +31,14 @@ public class SpringcloudEkCli02Application {
     String port;
 
 
-    @RequestMapping("/hello")
+    @RequestMapping("/hello2")
     String sayHello() {
         String ha = "Hello World!" + "I am calling from "+"port:"+port;
         System.out.println(ha);
         return ha;
     }
 
-    @RequestMapping("/getRegistered")
+    @RequestMapping("/getRegistered2")
     public String getRegistered(){
         String rst="";
         List<ServiceInstance> list = discoveryClient.getInstances("STORES");
