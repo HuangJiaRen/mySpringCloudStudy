@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-ribbon:unknown">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-ribbon/unknown/spring-cloud-starter-ribbon-unknown-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

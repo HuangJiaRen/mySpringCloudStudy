@@ -17,9 +17,9 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableDiscoveryClient  //向服务中心注册
 @EnableHystrix
-public class SpringcloudApplication {
+public class SpringcloudConsumerApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringcloudApplication.class, args);
+        SpringApplication.run(SpringcloudConsumerApplication.class, args);
     }
     @Bean
     @LoadBalanced //表示下列方法开启负载均衡
