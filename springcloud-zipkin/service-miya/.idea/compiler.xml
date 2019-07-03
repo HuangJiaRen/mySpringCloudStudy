@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.huangli.xdf (3) (service-miya)" />
-        <module name="com.huangli.cn" />
         <module name="service-miya" />
-        <module name="service-hi" />
-        <module name="com.huangli.xdf (2) (service-hi)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-miya" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="service-miya" options="-parameters" />
+    </option>
   </component>
 </project>
